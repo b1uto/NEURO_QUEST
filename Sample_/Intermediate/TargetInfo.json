@@ -1,4 +1,24 @@
 {
 	"Targets": [
+		{
+			"Name": "Sample",
+			"Path": "Source\\Sample.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SampleClient",
+			"Path": "Source\\SampleClient.Target.cs",
+			"Type": "Client"
+		},
+		{
+			"Name": "SampleEditor",
+			"Path": "Source\\SampleEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "SampleServer",
+			"Path": "Source\\SampleServer.Target.cs",
+			"Type": "Server"
+		}
 	]
 }

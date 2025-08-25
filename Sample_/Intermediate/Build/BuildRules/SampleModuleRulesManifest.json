@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Diss_git\\NEURO_QUEST\\Sample_\\Intermediate\\Source\\Sample.Build.cs",
+		"D:\\Diss_git\\NEURO_QUEST\\Sample_\\Intermediate\\Source\\Sample.Target.cs",
+		"D:\\Diss_git\\NEURO_QUEST\\Sample_\\Intermediate\\Source\\SampleClient.Target.cs",
+		"D:\\Diss_git\\NEURO_QUEST\\Sample_\\Intermediate\\Source\\SampleEditor.Target.cs",
+		"D:\\Diss_git\\NEURO_QUEST\\Sample_\\Intermediate\\Source\\SampleServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
