@@ -1,3 +1,5 @@
+Real-Time Adaptive AI in VR Gaming Through Heart Rate Monitoring
+
 📖 Overview
 
 This project explores how real-time physiological feedback can be used to enhance immersion in Virtual Reality (VR) games. Using a Polar H10 heart rate monitor and Unreal Engine, enemy AI dynamically adapts its behavior based on the player’s current heart rate, creating a responsive and personalized gameplay experience.
